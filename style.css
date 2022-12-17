@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+}
+header {
+  background: #129799;
+}
+body {
+  background: #ffa185;
+}
+footer {
+  background: #129799;
+}
+.box {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 20px;
+}
+a {
+  color: #f7f7f7;
+  text-decoration: none;
+  padding: 30px;
+  font-family: "Roboto";
+}
+h1 {
+  font-size: 64px;
+  color: #f7f7f7;
+  position: absolute;
+  width: 650px;
+  height: 75px;
+  left: 70px;
+  top: 152px;
+  font-family: "Roboto";
+}
+.life {
+  margin-left: 50%;
+}
+.topnav {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 30px;
+}
+h2 {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 48px;
+  padding: 20px;
+}
+.aquarela {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 25px;
+  padding: 20px;
+}
+.box3 {
+  display: inline-block;
+}
+.box4 {
+  display: inline-block;
+}
+.image1 {
+  margin-left: 5%;
+}
+.image2 {
+  margin-left: 7%;
+}
+.mais {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 45px;
+  margin-left: 43%;
+  color: #000000;
+}
+.box5 {
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+.box6 {
+  font-family: "Roboto";
+  margin-left: 60%;
+  font-size: 25px;
+}
